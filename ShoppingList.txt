@@ -6,3 +6,5 @@ Milks
 Eggs
 Cokies
 cereal
+Juices
+Candy
